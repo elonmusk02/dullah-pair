@@ -6,7 +6,7 @@
     "node" : ">=20.0.0"
     },
     "scripts": {
-    "start": "node KEITH-TECH.js"
+    "start": "node DULLAH-TECH.js"
   },
   "author": "France King",
   "license": "GPL-3.0 license",
