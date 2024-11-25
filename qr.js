@@ -43,7 +43,7 @@ router.get('/', async (req, res) => {
 				browser: Browsers.macOS("Desktop"),
 			});
 
-			Qr_Code_By_Keith_Tech.ev.on('creds.update', saveCreds)
+			Qr_Code_By_Dullah_Tech.ev.on('creds.update', saveCreds)
 			Qr_Code_By_Keith_Techr.ev.on("connection.update", async (s) => {
 				const {
 					connection,
@@ -59,26 +59,26 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Ibrahim_King.sendMessage(Qr_Code_By_Ibrahim_King.user.id, { text: '' + b64data });
 	
 				   let KEITH_TECH_TEXT = `
-*_Qr Code By Keith tech_*
+*_Qr Code By Dullah tech_*
 *_Made With 🤖_*
 ______________________________________
 ╔════◇
-║ *『 KEITH-TECH OFFICIAL 』*
+║ *『 DULLAH-TECH OFFICIAL 』*
 ║ _YOU HAVE SUCCESSFULLY SELECTED THE BEST BOT._
 ╚══════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _https://youtube.com/@keithkeizzah?si=PviuOaZQHHvAjpxH_
+║❒ *Ytube:* _https://youtube.com/@herokuplatform?si=PviuOaZQHHvAjpxH_
 ║❒ *Owner:* _https://wa.me/qr/W6BT5CSV4NPNJ1_
-║❒ *Repo:* _https://github.com/Keithkeizzah/huncho_
-║❒ *WaGroup:* _https://chat.whatsapp.com/KeEYrEX8UDdGD4m4GbdHaA_
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vaan9TF9Bb62l8wpoD47_
-║❒ *Plugins:* _https://github.com/Keithkeizzah/Keith-bot-md-plugins_
+║❒ *Repo:* _https://github.com/abdallahsalimjuma/DULLAH-MD_
+║❒ *WaGroup:* _https://chat.whatsapp.com/GufiUEQ7Jj1D2kszcZqOgx_
+║❒ *WaChannel:* _https://whatsapp.com/channel/GufiUEQ7Jj1D2kszcZqOgx_
+║❒ *Plugins:* _https://github.com/abdallahsalimjuma/Dullah-md-bot-plugins_
 ╚══════════════════════╝ 
 _____________________________________
 	
 _Don't Forget To Give Star To My Repo_`
-	 await Qr_Code_Keith_Tech.sendMessage(Qr_Code__Keith_Tech.user.id,{text:KEITH_TECH_TEXT},{quoted:session})
+	 await Qr_Code_Keith_Tech.sendMessage(Qr_Code__Dullah_Tech.user.id,{text:DULLAH_TECH_TEXT},{quoted:session})
 
 
 
