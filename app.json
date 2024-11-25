@@ -1,9 +1,9 @@
 {
-    "name": "DULLAH-TECH Pairing",
-    "description": "DULLAH-TECH WA bot, Created by France King",
+    "name": "KEITH-TECH Pairing",
+    "description": "KEITH-TECH WA bot, Created by France King",
     "logo": "https://files.catbox.moe/hegdag.jpg",
     "repository": "https://github.com/abdallahsalimjuma/keith-pair",
-    "keywords": ["DULLAHTECH"],
+    "keywords": ["KEITHTECH"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
