@@ -14,23 +14,7 @@
       },
       "MESSAGE": {
         "description": "set session id conformation message",
-        "value": "
-┏━━━━━━━━━━━━━━
-┃𝑆𝑒𝑠𝑠𝑖𝑜𝑛
-┃𝑆𝑢𝑐𝑐𝑒𝑠𝑓𝑢𝑙𝑙𝑦
-┃𝐶𝑜𝑛𝑛𝑒𝑐𝑡𝑒𝑑
-┗━━━━━━━━━━━━━━━
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || 𝐶𝑟𝑒𝑎𝑡𝑜𝑟 = ELON
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || Support Group= https://chat.whatsapp.com/Elw76HZI6R13C9OfYQNuoJ
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-Please Follow My Channel: https://whatsapp.com/channel/0029VarYP5iAInPtfQ8fRb2T
-Wanna talk? http://wa.me/2348167574039?
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*Please Follow Me*
-
-_Don't Forget To Give Star To My Repo_",
+        "value": "",
         "required": false
       }
     }   
