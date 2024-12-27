@@ -59,26 +59,25 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Ibrahim_King.sendMessage(Qr_Code_By_Ibrahim_King.user.id, { text: '' + b64data });
 	
 				   let KEITH_TECH_TEXT = `
-*_Qr Code By Dullah tech_*
-*_Made With 🤖_*
+*_Qr Code for ELON_MD Connected_*
+*_Made With 🤍_*
+*By ELON*
 ______________________________________
 ╔════◇
-║ *『 DULLAH-TECH OFFICIAL 』*
+║ *『 ELON-MD OFFICIAL 』*
 ║ _YOU HAVE SUCCESSFULLY SELECTED THE BEST BOT._
 ╚══════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _https://youtube.com/@herokuplatform?si=PviuOaZQHHvAjpxH_
-║❒ *Owner:* _https://wa.me/qr/W6BT5CSV4NPNJ1_
-║❒ *Repo:* _https://github.com/abdallahsalimjuma/DULLAH-MD_
-║❒ *WaGroup:* _https://chat.whatsapp.com/GufiUEQ7Jj1D2kszcZqOgx_
-║❒ *WaChannel:* _https://whatsapp.com/channel/GufiUEQ7Jj1D2kszcZqOgx_
-║❒ *Plugins:* _https://github.com/abdallahsalimjuma/Dullah-md-bot-plugins_
+║❒ *Ytube:* _https://www.youtube.com/@EmmaNuel-ri2to_
+║❒ *Owner:* _https://wa.me/message/2348167574039_
+║❒ *Repo:* _https://github.com/elonmusk02/Elon-MD_
+║❒ *WaGroup:* _https://chat.whatsapp.com/Elw76HZI6R13C9OfYQNuoJ_
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029VarYP5iAInPtfQ8fRb2T_
 ╚══════════════════════╝ 
 _____________________________________
-	
-_Don't Forget To Give Star To My Repo_`
-	 await Qr_Code_Keith_Tech.sendMessage(Qr_Code__Dullah_Tech.user.id,{text:DULLAH_TECH_TEXT},{quoted:session})
+_Don't Forget To Give a Star To My Repo_`
+	 await Qr_Code_Keith_Tech.sendMessage(Qr_Code__Elon_MD.user.id,{text:ELON_MD_TEXT},{quoted:session})
 
 
 
