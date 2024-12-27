@@ -6,9 +6,9 @@
     "node" : ">=20.0.0"
     },
     "scripts": {
-    "start": "node DULLAH-TECH.js"
+    "start": "node Elon-MD.js"
   },
-  "author": "France King",
+  "author": "Elon",
   "license": "GPL-3.0 license",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.5.0",
