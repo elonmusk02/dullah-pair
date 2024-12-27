@@ -75,7 +75,7 @@ ______________________________________
 ╚══════════════════════╝ 
 _____________________________________
 _Don't Forget To Give a Star To My Repo_`
- await Pair_Code_By_Ibrahim_King.sendMessage(Pair_Code__Ibrahim_King.user.id,{text:IBRAHIM_TECH_TEXT},{quoted:session})
+ await Pair_Code_By_Elon_MD.sendMessage(Pair_Code__Elon_MD.user.id,{text:ELON_MD_TEXT},{quoted:session})
  
 
         await delay(100);
